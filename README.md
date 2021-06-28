@@ -1,2 +1,2 @@
 # Image Sampling
- You can down sample your image with ratio that you want
+ You can down sample your image with ratio that you want.
